@@ -2,11 +2,8 @@
 
 [<img src="Gungnir/kaboom_gif.gif" />](https://www.youtube.com/watch?v=FXxbwfzK1f8)
 
-This project focuses on developing a Ground-to-Air Missile Guidance System using a triple-loop PID control structure in MATLAB/ Simulink.
-
-![illustration](simulation_graph.png)
-
-The following image illustrates the implementation of the autopilot acceleration control system.
+This project focuses on developing a Ground-to-Air Missile Guidance System using a triple-loop PID control structure in MATLAB/ Simulink.  
+The following image illustrates the implementation of the autopilot acceleration control system.  
 
 ![illustration](triple_loop_pid.png)
 
