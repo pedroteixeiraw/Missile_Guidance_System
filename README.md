@@ -15,4 +15,4 @@ All additional information can be obtained in the following files:
 3. **Missile Orientation Control (MATLAB File)**, 3_report_matlab.pdf
 4. **Simulation Report**, 4_report_simulation.pdf
 
-**Tech Stack:** MATLAB, Control Theory, PID Controllers, Mathematics, Physics
+**Tech Stack:** MATLAB, C, Control Theory, PID Controllers, Mathematics, Physics
