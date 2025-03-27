@@ -1,6 +1,6 @@
 # Missile Guidance System with PID Control
 
-[<img src="Gungnir/demo.gif" />]()
+[<img src="Gungnir/kaboom_gif.gif" />](https://www.youtube.com/watch?v=FXxbwfzK1f8)
 
 This project focuses on developing a Ground-to-Air Missile Guidance System using a triple-loop PID control structure in MATLAB/ Simulink.
 
