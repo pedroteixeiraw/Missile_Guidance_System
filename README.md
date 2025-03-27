@@ -1,10 +1,10 @@
 # Missile Guidance System with PID Control
 
-**Image 1**
+![illustration](sim_graph.png)
 
 This project focuses on developing a Missile Guidance System using a triple-loop PID control structure in MATLAB. The following image illustrates the implementation of the autopilot acceleration control system.
 
-**Image 2**
+![illustration](trpli_loop_pid.png)
 
 For mission success, the ground-to-air missile must intercept the target within a minimal distance of 5 meters and detonate.
 
