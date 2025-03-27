@@ -2,7 +2,7 @@
 
 [<img src="Gungnir/demo.gif" />]()
 
-This project focuses on developing a Missile Guidance System using a triple-loop PID control structure in MATLAB.  
+This project focuses on developing a Missile Guidance System using a triple-loop PID control structure in MATLAB/ Simulink.  
 
 ![illustration](simulation_graph.png)
 
