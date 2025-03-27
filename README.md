@@ -1,8 +1,12 @@
 # Missile Guidance System with PID Control
 
+[<img src="Gungnir/demo.gif" />]()
+
+This project focuses on developing a Missile Guidance System using a triple-loop PID control structure in MATLAB.  
+
 ![illustration](simulation_graph.png)
 
-This project focuses on developing a Missile Guidance System using a triple-loop PID control structure in MATLAB. The following image illustrates the implementation of the autopilot acceleration control system.
+The following image illustrates the implementation of the autopilot acceleration control system.
 
 ![illustration](triple_loop_pid.png)
 
