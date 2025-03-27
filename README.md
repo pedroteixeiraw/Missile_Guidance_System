@@ -2,7 +2,7 @@
 
 **Image 1**
 
-This project focuses on developing a Missile Guidance System using a PID triple-loop control structure in MATLAB. The following image illustrates the implementation of the autopilot acceleration control system.
+This project focuses on developing a Missile Guidance System using a triple-loop PID control structure in MATLAB. The following image illustrates the implementation of the autopilot acceleration control system.
 
 **Image 2**
 
